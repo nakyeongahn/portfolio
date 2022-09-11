@@ -29,10 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     ".ap-northeast-2.compute.amazonaws.com",
     ".nakyeongahn.com",
-    "www.nakyeongahn.com",
 ]
-
-
 # Application definition
 
 INSTALLED_APPS = [
